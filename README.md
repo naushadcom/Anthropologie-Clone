@@ -1,6 +1,6 @@
 # Anthropologie.com
 
-Anthropologie is an American clothing retailer with approximately 200 stores across the U.S. and Canada which offer an assortment of clothing, jewellery, home furniture, decoration, beauty, and gifts.
+Anthropologie was founded by current URBN chairman and president Dick Hayne, having heard the plea of a friend. She had just moved to the suburbs of Philadelphia, and was dissatisfied with the shopping options available to her. Now a distance from Urban Outfitters—a brand she also was aging out of—there was a void in her life. She longed for a store to indulge her creative side. Dick, realizing this wasn't an isolated phenomenon, went on to build a lifestyle brand that catered to creative, educated and affluent 30-45 year-old women. Named after his college major (but with a decidedly French twist), Anthropologie opened its very first doors in the autumn of 1992 in Wayne, Pennsylvania. We now operate over 200 stores worldwide.
 
 # Anthropologie clone
 
