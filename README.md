@@ -24,7 +24,7 @@ Anthropologie is an American clothing retailer with approximately 200 stores acr
     <p>If you want to run our project in your local machine</p>
     <p>Follow the given steps:</p>
     <ul>
-        <li>Clone our respository <a href="https://github.com/Parth-Bisht/Anthropologie-clone.git">https://github.com/Parth-Bisht/Anthropologie-clone.git</a></li>
+        <li>Clone our respository <a href="[https://github.com/Parth-Bisht/Anthropologie-clone.git](https://github.com/naushadcom/Anthropologie-Clone)">[https://github.com/Parth-Bisht/Anthropologie-clone.git](https://github.com/naushadcom/Anthropologie-Clone)</a></li>
         <li>Open our code in VS code</li>
         <li>On your terminal just write the command npm install</li>
         <li>Initialize the server by writing 'npm run server' on Terminal</li>
