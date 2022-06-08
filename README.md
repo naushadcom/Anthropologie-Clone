@@ -5,19 +5,17 @@ Anthropologie is an American clothing retailer with approximately 200 stores acr
 # Anthropologie clone
 
 <h2>Landing Page</h2>
-<img src="./Screeshots/LandingPage.png" alt="Landing Page"/>
 
 <h2>Login Page</h2>
-<img src="./Screeshots/LoginPage.png" alt="Login Page"/>
 
 <h2>Product Page</h2>
-<img src="./Screeshots/ProductsPage.png" alt="Product Page"/>
+
 
 <h2>Single Product Page</h2>
-<img src="./Screeshots/SingleProduct.png" alt="Single Product Page"/>
+
 
 <h2>Cart Page</h2>
-<img src="./Screeshots/CartPage.png" alt="Single Product Page"/>
+
 
 <h1>[Getting Started]</h1>
     <h3>Execution</h3>
