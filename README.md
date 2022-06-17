@@ -6,16 +6,21 @@ Anthropologie is an American clothing retailer with approximately 200 stores acr
 # Anthropologie clone
 
 <h2>Landing Page</h2>
+<img src="https://github.com/naushadcom/Anthropologie-Clone/blob/main/Screeshots/LandingPage.png">
 
 <h2>Login Page</h2>
+<img src="https://github.com/naushadcom/Anthropologie-Clone/blob/main/Screeshots/LoginPage.png">
 
 <h2>Product Page</h2>
+<img src="https://github.com/naushadcom/Anthropologie-Clone/blob/main/Screeshots/ProductsPage.png">
 
 
 <h2>Single Product Page</h2>
+<img src="https://github.com/naushadcom/Anthropologie-Clone/blob/main/Screeshots/SingleProduct.png">
 
 
 <h2>Cart Page</h2>
+<img src="https://github.com/naushadcom/Anthropologie-Clone/blob/main/Screeshots/CartPage.png">
 
 
 <h1>[Getting Started]</h1>
